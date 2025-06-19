@@ -14,7 +14,7 @@ export default function AuthLayout({
           <Gamepad2 className="h-10 w-10 mr-3 text-primary" />
           <Link href="/" legacyBehavior passHref>
             <a className="text-4xl font-bold text-primary tracking-wider hover:opacity-80 transition-opacity">
-              Wello
+              Tron Gaming
             </a>
           </Link>
         </div>

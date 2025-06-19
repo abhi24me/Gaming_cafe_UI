@@ -32,7 +32,7 @@ export default function ScreenSelector({ screens, onScreenSelect }: ScreenSelect
           </CardHeader>
           <CardContent className="flex flex-col flex-grow justify-between p-3 sm:p-4 pt-0">
             <p className="text-muted-foreground mb-3 sm:mb-4 text-xs sm:text-sm">
-              Experience immersive gaming on our state-of-the-art {screen.name.toLowerCase()}. Perfect for solo adventures or battling with friends.
+              Elevate your game: Book your elite session now.
             </p>
             <Button
               onClick={() => onScreenSelect(screen)}

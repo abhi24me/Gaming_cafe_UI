@@ -5,16 +5,16 @@ import { Monitor, Tv2, Gamepad2, History, Wallet as WalletIconLucide } from 'luc
 export const SCREENS: Screen[] = [
   {
     id: 'screen1',
-    name: 'Screen 1',
+    name: 'Screen 1 (PS 5)',
     icon: Monitor,
-    imagePlaceholderUrl: 'https://placehold.co/600x400.png',
+    imagePlaceholderUrl: '/images/screen1.png',
     imageAiHint: 'gaming monitor',
   },
   {
     id: 'screen2',
-    name: 'Screen 2',
+    name: 'Screen 2 (PS 5)',
     icon: Tv2,
-    imagePlaceholderUrl: 'https://placehold.co/600x400.png',
+    imagePlaceholderUrl: '/images/screen2.png',
     imageAiHint: 'console gaming',
   },
 ];
